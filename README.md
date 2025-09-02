@@ -7,11 +7,11 @@ It features AES-256 encryption, TOTP-based two-factor authentication (2FA), and 
 
 ## Features
 
-- 🔐 Master password authentication
-- 🛡️ AES-256 encryption for credential storage
-- 📱 Two-Factor Authentication using TOTP (compatible with Google Authenticator)
-- 🗂️ Add, view, and delete saved credentials
-- 📁 Local encrypted vault (no cloud storage)
+- Master password authentication
+- AES-256 encryption for credential storage
+- Two-Factor Authentication using TOTP (compatible with Google Authenticator)
+- Add, view, and delete saved credentials
+- Local encrypted vault (no cloud storage)
 
 ---
 
@@ -27,7 +27,7 @@ It features AES-256 encryption, TOTP-based two-factor authentication (2FA), and 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/quadvecta/vectword.git
+git clone https://github.com/amritofficial88/vectword.git
 cd vectword
 ```
 
@@ -96,13 +96,6 @@ Install all with:
 ```bash
 pip install -r requirements.txt
 ```
-
----
-
-## License
-
-This project is licensed under the MIT License.  
-You are free to use, modify, and distribute it for personal or educational purposes.
 
 ---
 
