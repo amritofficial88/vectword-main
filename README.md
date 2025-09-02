@@ -1,7 +1,6 @@
 # Vectword
 
-**Vectword** is a secure, local password manager built with Python.  
-It features AES-256 encryption, TOTP-based two-factor authentication (2FA), and a simple command-line interface for managing credentials securely.
+**Vectword** is a secure, local password manager built with Python. It features AES-256 encryption, TOTP-based two-factor authentication (2FA), and a simple command-line interface for managing credentials securely.
 
 ---
 
